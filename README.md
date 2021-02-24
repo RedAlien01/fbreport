@@ -19,6 +19,3 @@ $ cd report
 $ unzip report.zip
 $ python2 report.py
 ```
-### ScreenShot
-![shot](https://i.imgur.com/ejsvxcg.png)
-![shot](https://i.imgur.com/IxKpzoD.png)
